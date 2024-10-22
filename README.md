@@ -123,7 +123,7 @@ We recommend *VirtualBox* as a hypervisor since it is supported for most common 
 - [Oracle VM VirtualBox](https://www.virtualbox.org) **(Recommended)**
 - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) (Only for Linux and Windows)
 - [VMware Fusion for mac](https://www.vmware.com/products/fusion.html) (Only for macOS)
-&lt;!-- - [KVM](https://www.linux-kvm.org/page/Main_Page) (Only for Linux)
+[KVM](https://www.linux-kvm.org/page/Main_Page) (Only for Linux)
 - [UTM](https://mac.getutm.app) (Only for M1/M2 macOS) 
 
 

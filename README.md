@@ -161,9 +161,9 @@ You can find here the installation instructions tutorial:
 ### 2.2. Installing the Sandbox
 I will show here the steps to install the HDP Sandbox on VirtualBox. First of all, you need to be sure that you have installed VirtualBox and it is ready to create VMs.
 
-<center>
+<p align="center">
 <img src="https://i.imgur.com/wGAiLxE.png" width="600"/>
-<p>Oracle VM VirtualBox</p>
+<br>Oracle VM VirtualBox
 </center>
 
 

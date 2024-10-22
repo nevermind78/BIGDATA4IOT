@@ -592,7 +592,7 @@ Ambari 2.4 introduced the notion of Role-Based Access Control(RBAC) for the Amba
 
 
 
-
+---------------------------------
 **Hortonworks Sandbox HDP 3.0**
 
 

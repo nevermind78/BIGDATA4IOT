@@ -6,8 +6,8 @@ title: Lab 1 - Installing HDP Sandbox
 # Lab 1 - Installing HDP Sandbox
 
 **Course:** Big Data  For IOT
-**Author:** Firas Jolha
 
+**Author:** Abdallah Khemais
 ## Agenda
 
 * [Lab 1 - Installing HDP Sandbox](#lab-1---installing-hdp-sandbox)

@@ -144,9 +144,7 @@ Hortonworks Data Platform (HDP) is a straightforward, pre-configured, learning e
 You can find the download links of the Sandbox in *.ova* format with respect to the chosen hypervisor. If you are using **VirtualBox**, then download from [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova). For **VMware** users, the download link is [here](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_vmware_180622.ov). You can also download them from [the official website](https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html) but it needs an account on Cloudera website. I share below the download links for all available versions of HDP Sandbox.
 > The download links of HDP Sandbox on VirtualBox:
 >- [**HDP 2.5.0**](https://archive.cloudera.com/hwx-sandbox/hdp/dp-2.5.0/HDP_2.5_virtualbox.ova)
-
 >- [**HDP 2.6.5**](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova)
-
 >- [**HDP 3.0.1**](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-3.0.1/HDP_3.0.1_virtualbox_181205.ova) 
 
 You can find here the installation instructions tutorial:

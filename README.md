@@ -5,7 +5,7 @@ title: Lab 1 - Installing HDP Sandbox
 
 # Lab 1 - Installing HDP Sandbox
 
-**Course:** Intro to Big Data - IU S23  
+**Course:** Big Data  For IOT
 **Author:** Firas Jolha
 
 ## Agenda

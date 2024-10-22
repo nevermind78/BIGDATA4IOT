@@ -334,8 +334,8 @@ swap=0
 ```sh
 wsl --shutdown
 ```
-:::
-More info about WSL configuration can be found [here](https://learn.microsoft.com/en-us/windows/wsl/wsl-config).
+
+> More info about WSL configuration can be found [here](https://learn.microsoft.com/en-us/windows/wsl/wsl-config).
 
 ## Stopping/Restarting the cluster
 You can stop the cluster by turning off the virtual machine in case you are using a hypervisor. For Docker users, you only need to stop the containers `sandbox-hdp` and `sandbox-proxy`. Meanwhile, you can start the cluster in Docker Desktop by running the containers `sandbox-hdp` and `sandbox-proxy` whereas you just need to start the virtual machine in case you are using a hypervisor.

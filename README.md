@@ -12,7 +12,7 @@ title: Lab 1 - Installing HDP Sandbox
 
 * Lab 1 - Installing HDP Sandbox
 * Agenda
-* Prerequisites
+* [Prerequisites](#Prerequisites)
 * Objectives
 * Introduction
 * Hardware requirements

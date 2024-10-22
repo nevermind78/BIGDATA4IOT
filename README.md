@@ -10,36 +10,37 @@ title: Lab 1 - Installing HDP Sandbox
 
 ## Agenda
 
-* Lab 1 - Installing HDP Sandbox
-* Agenda
-* [Prerequisites](#Prerequisites)
-* Objectives
-* Introduction
-* Hardware requirements
-* Installing Hortonworks Sandbox
-    * A. Using a Hypervisor
-        * 1. Installing a Hypervisor
-        * 2. Installing HDP Sandbox
-        * 2.1. Downloading the Sandbox
-        * 2.2. Installing the Sandbox
-        * 2.3. Running the VM
-    * B. Using Docker
-        * 1. Installing Docker Desktop on Windows
-        * 2. Installing HDP Sandbox
-* Configuring the resources for Docker
-* Stopping/Restarting the cluster
-* Access HDP Sandbox cluster
-* Access via SSH
-* Access HDFS
-* Transfer data between HDFS and local file systems
-* Transfer data into and out of the cluster node
-* Transfer data into and out of HDFS
-* Common issues
-* Self-check questions
-* Appendix
-* Sandbox Version
-* Ambari Roles
-* References
+* [Lab 1 - Installing HDP Sandbox](#lab-1---installing-hdp-sandbox)
+* [Agenda](#agenda)
+* [Prerequisites](#prerequisites)
+* [Objectives](#objectives)
+* [Introduction](#introduction)
+* [Hardware requirements](#hardware-requirements)
+* [Installing Hortonworks Sandbox](#installing-hortonworks-sandbox)
+    * [A. Using a Hypervisor](#a-using-a-hypervisor)
+        * [1. Installing a Hypervisor](#1-installing-a-hypervisor)
+        * [2. Installing HDP Sandbox](#2-installing-hdp-sandbox)
+            * [2.1. Downloading the Sandbox](#21-downloading-the-sandbox)
+            * [2.2. Installing the Sandbox](#22-installing-the-sandbox)
+            * [2.3. Running the VM](#23-running-the-vm)
+    * [B. Using Docker](#b-using-docker)
+        * [1. Installing Docker Desktop on Windows](#1-installing-docker-desktop-on-windows)
+        * [2. Installing HDP Sandbox](#2-installing-hdp-sandbox-1)
+* [Configuring the resources for Docker](#configuring-the-resources-for-docker)
+* [Stopping/Restarting the cluster](#stoppingrestarting-the-cluster)
+* [Access HDP Sandbox cluster](#access-hdp-sandbox-cluster)
+* [Access via SSH](#access-via-ssh)
+* [Access HDFS](#access-hdfs)
+* [Transfer data between HDFS and local file systems](#transfer-data-between-hdfs-and-local-file-systems)
+* [Transfer data into and out of the cluster node](#transfer-data-into-and-out-of-the-cluster-node)
+* [Transfer data into and out of HDFS](#transfer-data-into-and-out-of-hdfs)
+* [Common issues](#common-issues)
+* [Self-check questions](#self-check-questions)
+* [Appendix](#appendix)
+* [Sandbox Version](#sandbox-version)
+* [Ambari Roles](#ambari-roles)
+* [References](#references)
+
 
 ## Prerequisites
 - Familiarity with terminals, shell commands, and fundamental knowledge in operating systems (Linux)
